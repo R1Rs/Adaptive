@@ -5,7 +5,7 @@
 
 @media (max-width: 640px) { 
  .title { 
-  background-image: url("../sources/img/football_767.jpg");
+  background-image: url("sources/img/football_767.jpg");
   background-size: cover;
   position: relative;
 }

@@ -1347,7 +1347,7 @@ span {
 
 .be_active-picture {
   background-image: url("../sources/img/be-active_960.jpg");
-  background-size: 100%;
+  background-size: cover;
   background-position: center;
   min-height: 720px;
   width: 50%;
@@ -1380,7 +1380,7 @@ span {
   background-color: #ffffff;
   position: absolute;
   bottom: 57%;
-  left: 49.2%;
+  left: calc(50% - 25px/2);
   z-index: 1;
   opacity: 0.3;
 }
@@ -1462,7 +1462,7 @@ span {
   background-color: #ffffff;
   position: absolute;
   bottom: 57%;
-  left: 49.2%;
+  left: calc(50% - 25px/2);
   z-index: 1;
   opacity: 0.3;
 }
@@ -1511,7 +1511,7 @@ span {
   background-color: #ffffff;
   position: absolute;
   bottom: 57%;
-  left: 49.2%;
+  left: calc(50% - 25px/2);
   z-index: 1;
   opacity: 0.3;
 }

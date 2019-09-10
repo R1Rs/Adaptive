@@ -8,6 +8,7 @@
   background-image: url("../sources/img/football_767.jpg");
   background-size: cover;
   position: relative;
+  background-position: center;
 }
 
 .title:before {
@@ -279,6 +280,7 @@ span {
   background-image: url("../sources/img/be-active_640.jpg");
   background-size: cover;
   position: relative;
+  background-position: center;
   min-height: 360px;
 }
 
@@ -347,6 +349,7 @@ span {
   background-image: url("../sources/img/find-contact_640.jpg");
   background-size: cover;
   position: relative;
+  background-position: center;
   min-height: 360px;
 }
 
@@ -386,6 +389,7 @@ span {
   background-image: url("../sources/img/work-it_640.jpg");
   background-size: cover;
   position: relative;
+  background-position: center;
   min-height: 360px;
 }
 
@@ -424,6 +428,7 @@ span {
 .footer {
   background-image: url("../sources/img/game_767.jpg");
   background-size: cover;
+  background-position: center;
   position: relative;
 }
 
@@ -505,6 +510,7 @@ span {
 .title {
   background-image: url("../sources/img/football_767.jpg");
   background-size: cover;
+  background-position: center;
   position: relative;
 }
 
@@ -802,6 +808,7 @@ span {
 .be_active-picture {
   background-image: url("../sources/img/be-active_960.jpg");
   background-size: cover;
+  background-position: center;
   position: relative;
   min-height: 585px;
 }
@@ -868,6 +875,7 @@ span {
 .find_contact-picture {
   background-image: url("../sources/img/find-contact_960.jpg");
   background-size: cover;
+  background-position: center;
   position: relative;
   min-height: 585px;
 }
@@ -907,6 +915,7 @@ span {
 .work_it-picture {
   background-image: url("../sources/img/work-it_960.jpg");
   background-size: cover;
+  background-position: center;
   position: relative;
   min-height: 585px;
 }
@@ -947,6 +956,7 @@ span {
 .footer {
   background-image: url("../sources/img/game_767.jpg");
   background-size: cover;
+  background-position: center;
   position: relative;
 }
 
@@ -1025,9 +1035,10 @@ span {
 }
 } 
 @media (min-width: 961px) {
-  .title {
+.title {
   background-image: url("../sources/img/football_1920.jpg");
   background-size: cover;
+  background-position: center;
   position: relative;
 }
 
@@ -1510,6 +1521,7 @@ span {
 .footer {
   background-image: url("../sources/img/game_767.jpg");
   background-size: cover;
+  background-position: center;
   position: relative;
 }
 

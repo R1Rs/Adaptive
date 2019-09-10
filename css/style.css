@@ -1026,7 +1026,7 @@ span {
 } 
 @media (min-width: 961px) {
   .title {
-  background-image: url("/sources/img/football_1920.jpg");
+  background-image: url("../sources/img/football_1920.jpg");
   background-size: cover;
   position: relative;
 }

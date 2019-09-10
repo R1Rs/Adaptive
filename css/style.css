@@ -1342,12 +1342,12 @@ span {
   margin-left: auto;
   margin-right: auto;
   max-width: 1920px;
+  position: relative;
 }
 
 .be_active-picture {
   background-image: url("../sources/img/be-active_960.jpg");
-  background-size: cover;
-  position: relative;
+  background-size: 100%;
   background-position: center;
   min-height: 720px;
   width: 50%;
@@ -1363,9 +1363,9 @@ span {
   font-weight: 700;
   background-color: #5e42b0;
   position: absolute;
-  width: 168px;
-  height: 155px;
-  left: 89%;
+  width: 8.8%;
+  height: 21.5%;
+  left: 45.5%;
   bottom: 49%;
   display: flex;
   align-items: center;
@@ -1380,7 +1380,7 @@ span {
   background-color: #ffffff;
   position: absolute;
   bottom: 57%;
-  left: 98.3%;
+  left: 49.2%;
   z-index: 1;
   opacity: 0.3;
 }
@@ -1424,12 +1424,12 @@ span {
   margin-left: auto;
   margin-right: auto;
   max-width: 1920px;
-  }
+  position: relative;
+}
   
 .find_contact-picture {
   background-image: url("../sources/img/find-contact_960.jpg");
   background-size: cover;
-  position: relative;
   background-position: center;
   min-height: 720px;
   width: 50%;
@@ -1445,9 +1445,9 @@ span {
   font-weight: 700;
   background-color: #5e42b0;
   position: absolute;
-  width: 168px;
-  height: 155px;
-  left: -11%;
+  width: 8.8%;
+  height: 21.5%;
+  left: 45.5%;
   bottom: 49%;
   display: flex;
   align-items: center;
@@ -1462,7 +1462,7 @@ span {
   background-color: #ffffff;
   position: absolute;
   bottom: 57%;
-  left: -1.5%;
+  left: 49.2%;
   z-index: 1;
   opacity: 0.3;
 }
@@ -1479,7 +1479,6 @@ span {
 .work_it-picture {
   background-image: url("../sources/img/work-it_960.jpg");
   background-size: cover;
-  position: relative;
   background-position: center;
   min-height: 720px;
   width: 50%;
@@ -1495,9 +1494,9 @@ span {
   font-weight: 700;
   background-color: #5e42b0;
   position: absolute;
-  width: 168px;
-  height: 155px;
-  left: 89%;
+  width: 8.8%;
+  height: 21.5%;
+  left: 45.5%;
   bottom: 49%;
   display: flex;
   align-items: center;
@@ -1512,7 +1511,7 @@ span {
   background-color: #ffffff;
   position: absolute;
   bottom: 57%;
-  left: 98.3%;
+  left: 49.2%;
   z-index: 1;
   opacity: 0.3;
 }
